@@ -17,6 +17,6 @@ See: https://doc.dataiku.com/dss/latest/plugins/offline_install.html
 # Using the plugin
 When adding a new dataset in a project, the Plugin SPARQL SELECT is added to the list of possibilities.
 
-The plugin takes to parameters:
+The plugin takes two parameters:
 * the SPARQL enbpoint URL
 * the SPARQL query
